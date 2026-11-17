@@ -99,8 +99,8 @@ SQLForge/
 
 | Repository | Focus Area | Description |
 | :--- | :--- | :--- |
-| [**SQLAlchemyLab**](https://github.com/vishaltechstack/SQLAlchemyLab) | `MySQL 8.0+` `22-Step Curriculum` | Complete step-by-step MySQL tutorial from database creation to triggers, views, indexes, JSON, and ACID transactions. |
-| [**QueryCraft**](https://github.com/vishaltechstack/QueryCraft) | `SQL` `Problem Solving` `Joins & CTEs` | Daily hands-on SQL coding challenges and query-building practice problems to sharpen relational logic. |
+| [![SQLAlchemyLab](https://img.shields.io/badge/SQLAlchemyLab-15803D?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/vishaltechstack/SQLAlchemyLab) | `MySQL 8.0+` `22-Step Curriculum` | Complete step-by-step MySQL tutorial from database creation to triggers, views, indexes, JSON, and ACID transactions. |
+| [![QueryCraft](https://img.shields.io/badge/QueryCraft-008080?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/vishaltechstack/QueryCraft) | `SQL` `Problem Solving` `Joins & CTEs` | Daily hands-on SQL coding challenges and query-building practice problems to sharpen relational logic. |
 
 ---
 
